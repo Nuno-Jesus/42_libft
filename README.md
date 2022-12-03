@@ -1,13 +1,12 @@
 # **Libft**
-This project was graded <strong style="color: green">125/100</strong>.
+This project was graded <strong>125/100</strong>.
 
-## **About**
-> This project is all about writing down a useful set of functions to later on be used on future projects. All the code was implemented by me and based on the version of the subject available from the moment of the kickoff here in Porto (2<sup>nd</sup> November).
 
-&#128196;
-&#9989;
+## 📒 **About**
+> This project is all about writing down a useful set of functions to later on be used on future projects. All the code was implemented by me and based on the version of the subject available from the moment of the kickoff here in Porto, <strong>2<sup>nd</sup> November 2022</strong>.
 
-## **Implementation**
+
+## 🔧 **Implementation**
 <table>
 	<thead>
 		<tr>
@@ -20,183 +19,184 @@ This project was graded <strong style="color: green">125/100</strong>.
 		<tr>
 			<td rowspan=23><strong>Mandatory (I)</strong></td>
 			<td>ft_atoi</td>
-			<td>&#9989;</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_bzero<td>
-			<td>&#9989;<td>
+			<td>ft_bzero</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_calloc<td>
-			<td>&#9989;<td>
+			<td>ft_calloc</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_isalnum<td>
-			<td>&#9989;<td>
+			<td>ft_isalnum</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_isalpha<td>
-			<td>&#9989;<td>
+			<td>ft_isalpha</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_isascii<td>
-			<td>&#9989;<td>
+			<td>ft_isascii</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_isdigit<td>
-			<td>&#9989;<td>
+			<td>ft_isdigit</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_isprint<td>
-			<td>&#9989;<td>
+			<td>ft_isprint</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_memchr<td>
-			<td>&#9989;<td>
+			<td>ft_memchr</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_memcmp<td>
-			<td>&#9989;<td>
+			<td>ft_memcmp</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_memcpy<td>
-			<td>&#9989;<td>
+			<td>ft_memcpy</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_memmove<td>
-			<td>&#9989;<td>
+			<td>ft_memmove</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_memset<td>
-			<td>&#9989;<td>
+			<td>ft_memset</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strchr<td>
-			<td>&#9989;<td>
+			<td>ft_strchr</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strdup<td>
-			<td>&#9989;<td>
+			<td>ft_strdup</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strlcat<td>
-			<td>&#9989;<td>
+			<td>ft_strlcat</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strlcpy<td>
-			<td>&#9989;<td>
+			<td>ft_strlcpy</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strlen<td>
-			<td>&#9989;<td>
+			<td>ft_strlen</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strncmp<td>
-			<td>&#9989;<td>
+			<td>ft_strncmp</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strnstr<td>
-			<td>&#9989;<td>
+			<td>ft_strnstr</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strrchr<td>
-			<td>&#9989;<td>
+			<td>ft_strrchr</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_tolower<td>
-			<td>&#9989;<td>
+			<td>ft_tolower</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_toupper<td>
-			<td>&#9989;<td>
+			<td>ft_toupper</td>
+			<td>✅</td>
 		</tr>
 		<tr>
 			<td rowspan=11><strong>Mandatory (II)</strong></td>
-			<td>ft_itoa<td>
-			<td>&#9989;<td>
+			<td>ft_itoa</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_putchar_fd<td>
-			<td>&#9989;<td>
+			<td>ft_putchar_fd</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_putendl_fd<td>
-			<td>&#9989;<td>
+			<td>ft_putendl_fd</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_putnbr_fd<td>
-			<td>&#9989;<td>
+			<td>ft_putnbr_fd</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_putstr_fd<td>
-			<td>&#9989;<td>
+			<td>ft_putstr_fd</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_split<td>
-			<td>&#9989;<td>
+			<td>ft_split</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_striteri<td>
-			<td>&#9989;<td>
+			<td>ft_striteri</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strjoin<td>
-			<td>&#9989;<td>
+			<td>ft_strjoin</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strmapi<td>
-			<td>&#9989;<td>
+			<td>ft_strmapi</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_strtrim<td>
-			<td>&#9989;<td>
+			<td>ft_strtrim</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_substr<td>
-			<td>&#9989;<td>
+			<td>ft_substr</td>
+			<td>✅</td>
 		</tr>
 		<tr>
 			<td rowspan=9><strong>Bonus Part</strong></td>
-			<td>ft_lstadd_back<td>
-			<td>&#9989;<td>
+			<td>ft_lstadd_back</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstadd_front<td>
-			<td>&#9989;<td>
+			<td>ft_lstadd_front</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstclear<td>
-			<td>&#9989;<td>
+			<td>ft_lstclear</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstdelone<td>
-			<td>&#9989;<td>
+			<td>ft_lstdelone</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstiter<td>
-			<td>&#9989;<td>
+			<td>ft_lstiter</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstlast<td>
-			<td>&#9989;<td>
+			<td>ft_lstlast</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstmap<td>
-			<td>&#9989;<td>
+			<td>ft_lstmap</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstnew<td>
-			<td>&#9989;<td>
+			<td>ft_lstnew</td>
+			<td>✅</td>
 		</tr>
 		<tr>
-			<td>ft_lstsize<td>
-			<td>&#9989;<td>
+			<td>ft_lstsize</td>
+			<td>✅</td>
 		</tr>
 	</tbody>
 </table>
 
 
-## **Compilation**
+
+## 📦 **Compilation**
 To compile the library you can either run `make` or `make bonus` in the terminal. The rule `make` will only compile the mandatory part of this work, while the `make bonus` rule will compile both the mandatory and the bonus part together.
 
 Both rules generate a `libft.a` file, which is zipped version of all the object files. Imagine you have a `main.c` file and you want to use your library in it. You can compile it by running the following command:
@@ -205,7 +205,13 @@ Both rules generate a `libft.a` file, which is zipped version of all the object 
 $ cc -Wall -Wextra -Werror main.c -lft -L (REPLACE BY PATH TO libft.a) -I (REPLACE BY PATH TO libft.h)
 ```
 
-## **Testing**
+
+## 💫 **Testing**
 
 This project was tested using the [libft-unit-tester](https://github.com/alelievr/libft-unit-test) and manual revision only.
+
+
+## 📞 **Contact me**
+
+Feel free to ask me any questions through Slack (**ncarvalh**).
 
