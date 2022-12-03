@@ -10,14 +10,14 @@ This project was graded <strong>125/100</strong>.
 <table>
 	<thead>
 		<tr>
-			<th>Project Part</th>
+			<th>Part / Total Functions</th>
 			<th>Function Name</th>
 			<th>Implemented</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan=23><strong>Mandatory (I)</strong></td>
+			<td rowspan=23><strong>Mandatory (I) / 23</strong></td>
 			<td>ft_atoi</td>
 			<td>✅</td>
 		</tr>
@@ -110,7 +110,7 @@ This project was graded <strong>125/100</strong>.
 			<td>✅</td>
 		</tr>
 		<tr>
-			<td rowspan=11><strong>Mandatory (II)</strong></td>
+			<td rowspan=11><strong>Mandatory (II) / 11</strong></td>
 			<td>ft_itoa</td>
 			<td>✅</td>
 		</tr>
@@ -155,7 +155,7 @@ This project was graded <strong>125/100</strong>.
 			<td>✅</td>
 		</tr>
 		<tr>
-			<td rowspan=9><strong>Bonus Part</strong></td>
+			<td rowspan=9><strong>Bonus Part / 9</strong></td>
 			<td>ft_lstadd_back</td>
 			<td>✅</td>
 		</tr>
