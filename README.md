@@ -3,8 +3,16 @@ This project was graded <strong>125/100</strong>.
 
 
 ## 📒 **About**
-> This project is all about writing down a useful set of functions to later on be used on future projects. All the code was implemented by me and based on the version of the subject available from the moment of the kickoff here in Porto, <strong>2<sup>nd</sup> November 2022</strong>.
+This project is all about writing down a useful set of functions to later on be used on future projects. All the code was implemented by me and based on the version of the subject available from the moment of the kickoff here in Porto, <strong>2<sup>nd</sup> November 2022</strong>.
 
+## 🚨 **Disclaimer**
+At 42, the C projects are built following a bunch of rules that enforce good coding style. Some of them are:
+
+	- No for, do while, switch, case or goto are allowed
+	- No more than 25 lines per function and 5 functions per file
+	- No assigns and declarations in the same line (unless static)
+	- No more than 5 variables in 1 function
+	... 
 
 ## 🔧 **Implementation**
 <table>
